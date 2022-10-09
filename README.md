@@ -49,6 +49,7 @@ El codigo esta estructurado en cuatro archivos
     - FIABILIDAD: 50,53%         71,00 % derrotas/victorias acertadas      0,9 % empates acertados  
     
 COMENTARIOS:
+
     - Curioso como no mejora la fiabilidad del modelo, sin embargo si que varian las probabilidades de cada resultado.
     - Me queda pendiente mucho por hacer, como pulir estos modelos, probar el numero de temporadas previas optimo para una buena prediccion de resultados y la implementacion de la correccion que tambien hace Dixon Coles sobre el peso de cada resultado en funcion de la fecha de este, teniendo los resultados mas recientes mas relevancia en el modelo.
     - Seguimos IronHackers! 

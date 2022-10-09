@@ -40,7 +40,7 @@ El codigo esta estructurado en cinco archivos
     
 4- PREDICCION DIXON-COLES
 
-    - Maher trata de corregir el modelo de Maher en el cual se da cuenta de que los resultados bajos estan subestimados y en particular los empates muy subestimados
+    - Dixon y Coles tratan de corregir el modelo de Maher en el cual se da cuenta de que los resultados bajos estan subestimados y en particular los empates muy subestimados
     - Basandonos en las temporadas 17-18, 18-19, 19-20, 20-21 intentamos predecir los resultados de la temporada 21-22
     - Definicion de las funciones de la correccion de rho, la verosimilitud y sumatorio de estas
     - Maximicacion de los parametros FAL, FAV, FDL, FDV
